@@ -16,10 +16,10 @@
 
 /* customize things here */
 :root {
-	--font: 'DM Mono'; /* UI font name. it must be installed on your system. */
-	letter-spacing: -0.05ch; /* decreases letter spacing for better readability. */
-	font-weight: 300; /* UI font weight. */
-	--label-font-weight: 500; /* font weight for panel labels. */
+	--font: 'Monocraft'; /* UI font name. it must be installed on your system. */
+	letter-spacing: +0.025ch; /* decreases letter spacing for better readability. */
+	font-weight: 500; /* UI font weight. */
+	--label-font-weight: 700; /* font weight for panel labels. */
 	--corner-text: 'system24'; /* custom text to display in the corner. only works on windows. */
 	--pad: 16px; /* padding between panels. */
 	--txt-pad: 10px; /* padding inside panels to prevent labels from clipping */
@@ -48,11 +48,12 @@
 	--acc-0: var(--purple); /* main accent color. */
 	--acc-1: var(--purple-1); /* color of accent buttons when hovered. */
 	--acc-2: var(--purple-2); /* color of accent buttons when clicked. */
+	--acc-3: var(--gold);
 
 	/* borders */
 	--border-width: 2px; /* panel border thickness. */
 	--border-color: var(--bg-3); /* panel border color. */
-	--border-hover-color: var(--acc-0); /* panel border color when hovered. */
+	--border-hover-color: var(--acc-3); /* panel border color when hovered. */
 	--border-transition: 0.2s ease; /* panel border transition. */
 
 	/* status dot colors */
@@ -81,4 +82,5 @@
 	--green: oklch(73% 0.12 160);
 	--green-1: oklch(63% 0.12 160);
 	--green-2: oklch(53% 0.12 160);
+	--gold: oklch(82.89% 0.138 100.59)
 }
