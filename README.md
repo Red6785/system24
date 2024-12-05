@@ -10,7 +10,7 @@ you must install monocraft on your system for the font to work.
 
 ## discord server
 
-need help? want to get notified about updates? have feedback? join <https://discord.gg/nz87hXyvcy>
+need help? want to get notified about updates? have feedback? join refact0r's discord at <https://discord.gg/nz87hXyvcy>
 
 ## install
 
