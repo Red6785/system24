@@ -2,8 +2,10 @@
 
 # system24
 
-a tui-style discord theme, inspired by [spicetify text theme](https://github.com/spicetify/spicetify-themes/tree/master/text).
-
+a fork of a tui-style discord theme, inspired by [spicetify text theme](https://github.com/spicetify/spicetify-themes/tree/master/text).
+original by refact0r
+changes include: a gold highlighter, a font ([monocraft](https://github.com/IdreesInc/Monocraft)), optional crt scan effect
+you must install monocraft on your system for the font to work. 
 ![screenshot](/assets/screenshot3.png)
 
 ## discord server
@@ -22,7 +24,8 @@ need help? want to get notified about updates? have feedback? join <https://disc
 
 ### install through link
 
-1. add `https://refact0r.github.io/system24/theme/system24.theme.css` to your theme import links.
+1. add `https://raw.githubusercontent.com/Red6785/system24/refs/heads/main/theme/system24.theme.css` to your theme import links.
+`https://raw.githubusercontent.com/Red6785/system24/refs/heads/main/theme/system24.crtheme.css` if you want the crt effect
 
 ## flavors
 
