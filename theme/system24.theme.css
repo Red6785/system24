@@ -105,7 +105,7 @@ body {
 
     /* accent colors */
     --accent-1: var(--purple-1); /* links and other accent text */
-    --accent-2: var(--purple-2); /* small accent elements */
+    --accent-2: var(--gold); /* small accent elements */
     --accent-3: var(--purple-3); /* accent buttons */
     --accent-4: var(--purple-4); /* accent buttons when hovered */
     --accent-5: var(--purple-5); /* accent buttons when clicked */
