@@ -106,9 +106,9 @@ body {
     /* accent colors */
     --accent-1: var(--gold); /* links and other accent text */
     --accent-2: var(--gold); /* small accent elements */
-    --accent-3: var(--purple-3); /* accent buttons */
-    --accent-4: var(--purple-4); /* accent buttons when hovered */
-    --accent-5: var(--purple-5); /* accent buttons when clicked */
+    --accent-3: var(--gold); /* accent buttons */
+    --accent-4: var(--gold); /* accent buttons when hovered */
+    --accent-5: var(--gold); /* accent buttons when clicked */
     --accent-new: var(--red-2); /* stuff that's normally red like mute/deafen buttons */
     --mention: linear-gradient(to right, color-mix(in hsl, var(--accent-2), transparent 90%) 40%, transparent); /* background of messages that mention you */
     --mention-hover: linear-gradient(to right, color-mix(in hsl, var(--accent-2), transparent 95%) 40%, transparent); /* background of messages that mention you when hovered */
